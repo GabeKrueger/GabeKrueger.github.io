@@ -1,0 +1,45 @@
+body {
+    background-color: tan;
+
+}
+
+a.button {
+    padding: 6px;
+    border: 1px outset buttonborder;
+    border-radius: 7px;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    margin: 21px;
+}
+
+#myHeader {
+    height: 100px;
+    width: 975px;
+    background-color: maroon;
+    color: azure;
+    padding: 10px;
+    text-align: center;
+
+}
+
+#container {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: whitesmoke;
+    height: 1000px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: black;
+    font-size: 24px;
+    text-align: left;
+}
+
+
+#japan {
+    height: 200px;
+    width: 30%;
+    float: right;
+    padding: 0px;
+    border: 5px solid gray;
+}
